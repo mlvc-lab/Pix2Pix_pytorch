@@ -19,9 +19,8 @@ The examples from the paper:
 ## Getting Started
 
 + Clone this repo:
-
-    git clone git@github.com:mrzhu-cool/pix2pix-pytorch.git
-    cd pix2pix-pytorch
+    git clone https://gitlab.com/mlvc_lab/Pix2pix_base.git
+    cd Pix2pix_base
 
 + Get dataset
 
