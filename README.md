@@ -21,6 +21,7 @@ The examples from the paper:
 + Clone this repo:
     
     git clone https://gitlab.com/mlvc_lab/Pix2pix_base.git
+
     cd Pix2pix_base
 
 + Get dataset
