@@ -35,9 +35,3 @@ The examples from the paper:
 + Test the model:
 
     python test.py --dataset facades --model checkpoint/facades/netG_model_epoch_200.pth --cuda
-
-## Acknowledgments
-
-This code is a concise implementation of [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). Much easier to understand.
-
-Highly recommend the more completed and organized code [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) by original author junyanz.
